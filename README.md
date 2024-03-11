@@ -9,7 +9,7 @@
 <br>
 VsCode
 
-|Linguagem|Desscrição|
+|Linguagem|Descrição|
 |-|:-:|
 |Olá|Oi|
 |Olá|Oi|
