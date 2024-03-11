@@ -1,5 +1,5 @@
 # SENAI - MENEGON
-## 11/03/2024 - sistemas operacionais
+## 11/03/2024 - Sistemas Operacionais
 ### Aula de GitHub
 #### Edição de textos com Markdown
 ### Tecnologia 
